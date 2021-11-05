@@ -19,6 +19,7 @@ são usados para realizar a testagem dos métodos mencionados correspondentes. U
 De modo a executar os testes, basta executar o arquivo "calcula_areasTest.java".
 
 # Resultados:
+
 Abaixo são ilustradas capturas de tela com os resultados obtidos.
 ![image](https://user-images.githubusercontent.com/51242342/140456230-92cde5d2-d2b2-4fdf-9bbf-d5a47f31ae89.png)
 
