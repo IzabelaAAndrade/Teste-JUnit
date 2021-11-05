@@ -17,3 +17,8 @@ O objeto "objeto_teste" corresponde a um objeto da classe "calcula_areas.java" u
 são usados para realizar a testagem dos métodos mencionados correspondentes. Usa-se do método "assertEquals" para verificar se o primeiro parâmetro corresponde ao resultado devolvido pelo segundo, que no caso, é a chamada dos métodos a serem testados. Para as duas primeiras funções, foram inseridos valores corretos, os quais devem ser aprovados nos testes. Para a última função, no entanto, decidiu-se pela inclusão de um valor incorreto, de modo a verificar que o valor em questão não passaria no teste.
 
 De modo a executar os testes, basta executar o arquivo "calcula_areasTest.java".
+
+# Resultados:
+Abaixo são ilustradas capturas de tela com os resultados obtidos.
+![image](https://user-images.githubusercontent.com/51242342/140456230-92cde5d2-d2b2-4fdf-9bbf-d5a47f31ae89.png)
+
